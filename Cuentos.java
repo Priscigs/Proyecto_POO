@@ -1,5 +1,3 @@
-package Cuentos;
-
 /**
  * cuentos
  */
